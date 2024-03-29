@@ -1,6 +1,6 @@
 # The Best CSS Reset of 2024!
 
-## Table of content
+## Table of contents
 
 - [Table of content](#table-of-content)
 - [Box sizing](#box-sizing)
